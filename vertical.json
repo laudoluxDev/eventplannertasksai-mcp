@@ -1,0 +1,11 @@
+{
+  "product_id": "eventplanner",
+  "display_name": "EventPlannerTasksAI",
+  "tool_prefix": "eventplannertasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://eventplannertasksai.com",
+  "billing_url": "https://eventplannertasksai.com/buy-credits.html",
+  "support_email": "support@eventplannertasksai.com",
+  "privacy_summary": "EventPlannerTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. EventPlannerTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my EventPlannerTasksAI credit balance."
+}
